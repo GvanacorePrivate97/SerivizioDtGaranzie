@@ -1,0 +1,12 @@
+{
+  "name": "garanzie-render-mock",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Temporary read-only mock for Garanzie API",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
